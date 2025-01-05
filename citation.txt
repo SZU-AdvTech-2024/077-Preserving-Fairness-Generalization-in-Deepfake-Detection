@@ -1,0 +1,8 @@
+@inproceedings{REPO077,
+    author = "Lin, Li and He, Xinan and Ju, Yan and Wang, Xin and Ding, Feng and Hu, Shu",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "16815-16825",
+    title = "{Preserving Fairness Generalization in Deepfake Detection}",
+    year = "2024"
+}
